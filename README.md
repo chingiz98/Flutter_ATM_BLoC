@@ -20,4 +20,11 @@
 <img src="images/6.jpeg" width="30%">.
 <img src="images/7.jpeg" width="30%">.
 <img src="images/8.jpeg" width="30%">.
+### Скриншоты (iPhone SE):
+<img src="images/13.jpeg" width="30%">.
+<img src="images/12.jpeg" width="30%">.
+<img src="images/11.jpeg" width="30%">.
+<img src="images/10.jpeg" width="30%">.
+<img src="images/9.jpeg" width="30%">.
+<img src="images/8.jpeg" width="30%">.
 
